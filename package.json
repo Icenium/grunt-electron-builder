@@ -1,0 +1,20 @@
+{
+  "name": "grunt-electron-builder",
+  "version": "1.0.0",
+  "description": "Package and build ready for distribution Electron app for OS X, Windows and Linux.",
+  "license": "MIT",
+  "repository": "Icenium/grunt-electron-builder",
+  "author": {
+    "name": "Telerik AD",
+    "email": "clientservice@telerik.com"
+  },
+  "dependencies": {
+    "electron-builder": "https://artifactsrvbg01.telerik.com/artifactory/appbuilder-main/Telerik/AppBuilder/ElectronBuilder/electron-builder-5.6.2-ice.tgz"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "files": [
+    "tasks"
+  ]
+}
