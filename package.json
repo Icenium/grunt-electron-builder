@@ -8,13 +8,13 @@
     "name": "Telerik AD",
     "email": "clientservice@telerik.com"
   },
-  "dependencies": {
-    "electron-builder": "https://artifactsrvbg01.telerik.com/artifactory/appbuilder-main/Telerik/AppBuilder/ElectronBuilder/electron-builder-5.6.2-ice.tgz"
-  },
   "engines": {
     "node": ">=0.4.0"
   },
   "files": [
     "tasks"
-  ]
+  ],
+  "dependencies": {
+    "electron-builder": "^7.24.1"
+  }
 }
