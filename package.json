@@ -9,7 +9,7 @@
     "email": "clientservice@telerik.com"
   },
   "dependencies": {
-    "electron-builder": "https://artifactsrvbg01.telerik.com/artifactory/appbuilder-main/Telerik/AppBuilder/ElectronBuilder/electron-builder-5.6.2-ice.tgz"
+    "electron-builder": "https://s3.amazonaws.com/ab-platform-artifacts/proton/electron-builder-7.24.1-ice.tgz"
   },
   "engines": {
     "node": ">=0.4.0"
